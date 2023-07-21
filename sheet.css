@@ -308,50 +308,6 @@ body {
   font-weight: 500;
 }
 
-/* ........./ Testimonial /.......... */
-
-#testimonials {
-  padding: 5rem 0;
-  background: rgba(243, 243, 243);
-}
-
-.testimonial-title {
-  text-align: center;
-  font-size: 2.8rem;
-  font-weight: 400;
-  color: #555;
-}
-
-.testimonial-container {
-  display: flex;
-  justify-content: space-between;
-  font-size: 1.4rem;
-  padding: 1rem;
-}
-
-.testimonial-box .checked {
-  color: #ff9529;
-}
-
-.testimonial-box .testimonial-text {
-  margin: 1rem 0;
-  color: #444;
-}
-
-.testimonial-box {
-  text-align: center;
-  padding: 1rem;
-}
-
-.customer-photo img {
-  width:600px;
-  height:600px;
-  flex: 1 1 400px;
-  padding: 30px;
-  transform: translateX(150%);
-  animation: about-img-animation 1s ease-in-out forwards;
-}
-
 /* ........ Contact Me........... */
 
 #contact {
@@ -634,16 +590,7 @@ body {
   transform: translateX(150%);
   animation: about-img-animation 1s ease-in-out forwards;
 }
-  .customer-photo img {
-  width:600px;
-  height:600px;
-  flex: 1 1 400px;
-  padding: 30px;
-  transform: translateX(150%);
-  animation: about-img-animation 1s ease-in-out forwards;
   
-  
-}
 }
 
 @media (orientation: landscape) and (max-height: 500px) {
