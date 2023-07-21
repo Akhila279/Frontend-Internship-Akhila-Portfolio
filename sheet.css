@@ -350,8 +350,6 @@ body {
   padding: 30px;
   transform: translateX(150%);
   animation: about-img-animation 1s ease-in-out forwards;
-  
-  
 }
 
 /* ........ Contact Me........... */
@@ -635,6 +633,16 @@ body {
   padding: 30px;
   transform: translateX(150%);
   animation: about-img-animation 1s ease-in-out forwards;
+}
+  .customer-photo img {
+  width:600px;
+  height:600px;
+  flex: 1 1 400px;
+  padding: 30px;
+  transform: translateX(150%);
+  animation: about-img-animation 1s ease-in-out forwards;
+  
+  
 }
 }
 
